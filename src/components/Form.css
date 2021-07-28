@@ -1,0 +1,11 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.form {
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-top: 4%;
+}
+
+.field .is-grouped{
+    margin-top: 5%;
+}
